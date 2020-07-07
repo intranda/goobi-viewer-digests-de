@@ -4,6 +4,8 @@ Die Goobi viewer Digests geben einen regelmäßigen Überblick über die Entwick
 
 Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jeweiligen Monate, zu denen eine solche Zusammenstellung bereits vorliegt. Und zusätzlich sind im Folgenden auch einmal die 5 letzten Digests verlinkt:
 
+{% page-ref page="2020/6.md" %}
+
 {% page-ref page="2020/5.md" %}
 
 {% page-ref page="2020/4.md" %}
@@ -11,8 +13,4 @@ Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jewei
 {% page-ref page="2020/3.md" %}
 
 {% page-ref page="2020/2.md" %}
-
-{% page-ref page="2020/1.md" %}
-
-
 
