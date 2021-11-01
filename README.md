@@ -4,17 +4,27 @@ Die Goobi viewer Digests geben einen regelmäßigen Überblick über die Entwick
 
 Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jeweiligen Monate, zu denen eine solche Zusammenstellung bereits vorliegt. Und zusätzlich sind im Folgenden auch einmal die 6 letzten Digests verlinkt:
 
-{% page-ref page="2021/9.md" %}
+{% content-ref url="2018/10.md" %}
+[10.md](2018/10.md)
+{% endcontent-ref %}
 
-{% page-ref page="2021/8.md" %}
+{% content-ref url="2021/9.md" %}
+[9.md](2021/9.md)
+{% endcontent-ref %}
 
-{% page-ref page="2021/7.md" %}
+{% content-ref url="2021/8.md" %}
+[8.md](2021/8.md)
+{% endcontent-ref %}
 
-{% page-ref page="2021/6.md" %}
+{% content-ref url="2021/7.md" %}
+[7.md](2021/7.md)
+{% endcontent-ref %}
 
-{% page-ref page="2021/5.md" %}
+{% content-ref url="2021/6.md" %}
+[6.md](2021/6.md)
+{% endcontent-ref %}
 
-{% page-ref page="2021/4.md" %}
-
-
+{% content-ref url="2021/5.md" %}
+[5.md](2021/5.md)
+{% endcontent-ref %}
 
