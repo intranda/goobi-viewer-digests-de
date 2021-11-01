@@ -4,7 +4,7 @@
 
 ## 2021
 
-* [Oktober](2021/oktober.md)
+* [Oktober](2021/10.md)
 * [September](2021/9.md)
 * [August](2021/8.md)
 * [Juli](2021/7.md)
