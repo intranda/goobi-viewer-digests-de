@@ -2,8 +2,15 @@
 
 * [Goobi viewer Digests](README.md)
 
+## 2024
+
+* [Januar](2024/1.md)
+
 ## 2023
 
+* [Dezember](2023/12.md)
+* [November](2023/11.md)
+* [Oktober](2023/10.md)
 * [September](2023/9.md)
 * [August](2023/8.md)
 * [Juli](2023/7.md)
