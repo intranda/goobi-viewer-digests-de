@@ -4,6 +4,12 @@
 
 ## 2024
 
+* [Dezember](2024/12.md)
+* [November](2024/11.md)
+* [Oktober](2024/10.md)
+* [September](2024/9.md)
+* [August](2024/8.md)
+* [Juli](2024/7.md)
 * [Juni](2024/6.md)
 * [Mai](2024/5.md)
 * [April](2024/4.md)
