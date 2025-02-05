@@ -2,6 +2,10 @@
 
 * [Goobi viewer Digests](README.md)
 
+## 2025
+
+* [Januar](2025/1.md)
+
 ## 2024
 
 * [Dezember](2024/12.md)
