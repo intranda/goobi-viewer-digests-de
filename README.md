@@ -4,6 +4,10 @@ Die Goobi viewer Digests geben einen regelmäßigen Überblick über die Entwick
 
 Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jeweiligen Monate, zu denen eine solche Zusammenstellung bereits vorliegt. Und zusätzlich sind im Folgenden auch einmal die 6 letzten Digests verlinkt:
 
+{% content-ref url="2025/2.md" %}
+[2.md](2025/2.md)
+{% endcontent-ref %}
+
 {% content-ref url="2025/1.md" %}
 [1.md](2025/1.md)
 {% endcontent-ref %}
@@ -22,8 +26,4 @@ Im Inhaltsverzeichnis auf der linken Seite findet sich eine Auflistung der jewei
 
 {% content-ref url="2024/9.md" %}
 [9.md](2024/9.md)
-{% endcontent-ref %}
-
-{% content-ref url="2024/8.md" %}
-[8.md](2024/8.md)
 {% endcontent-ref %}
